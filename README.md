@@ -1,4 +1,4 @@
-# Project1-Group2_
+# Project1-Group2
 Chucky Montoya
 Kanin McGuire
 Martin Diaz
