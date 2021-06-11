@@ -2,6 +2,6 @@
 Project Team Members: 
 Chucky Montoya
 Kanin McGuire
-Martin Diaz_
+Martin Diaz
 
 All looks well! Reviewed by Martin
