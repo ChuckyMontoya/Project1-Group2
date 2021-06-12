@@ -3,5 +3,6 @@ Project Team Members:
 Chucky Montoya
 Kanin McGuire
 Martin Diaz
+Ariel Wilson-O'Brien
 
 All looks well! Reviewed by Martin
