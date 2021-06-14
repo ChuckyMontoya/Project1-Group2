@@ -1,5 +1,5 @@
 # Project1-Group2
-Project team members: 
+Project Team Members: 
 Chucky Montoya
 Kanin McGuire
 Martin Diaz
