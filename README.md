@@ -2,7 +2,7 @@
 Project Team Members:
 Chucky Montoya
 Kanin McGuire
-Martin Diaz
+Martin Diaz,
 Qi Wu
 
 
